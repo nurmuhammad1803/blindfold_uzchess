@@ -1,0 +1,5 @@
+# ==== CONFIG ====
+OPENAI_API_KEY = "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"
+openai.api_key = OPENAI_API_KEY
+STOCKFISH_PATH = r"C:/Users/Nurmuhammad/Downloads/stockfish/stockfish-windows-x86-64-avx2.exe"
+UZBEK_MODEL_PATH = "vosk-model-en-us-0.22-lgraph"
