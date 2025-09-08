@@ -1,3 +1,4 @@
 streamlit
+streamlit-autorefresh
 python-chess
 openai>=1.0.0
