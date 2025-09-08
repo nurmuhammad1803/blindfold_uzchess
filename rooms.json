@@ -41,5 +41,136 @@
     "offers": {
       "draw": null
     }
+  },
+  "ROOMTEST": {
+    "code": "ROOMTEST",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "history": [],
+    "created": 1756974611,
+    "turn": "w",
+    "status": "ended",
+    "winner": "black",
+    "players": {
+      "white": "4676550f-7ab6-4caf-be92-4c60238c30c0",
+      "black": "8b669da4-5ffa-44b9-960e-7b8bd2f15743"
+    },
+    "last_update": 1756974853,
+    "offers": {
+      "draw": null
+    }
+  },
+  "ROOMTEST2": {
+    "code": "ROOMTEST2",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "history": [],
+    "created": 1756974879,
+    "turn": "w",
+    "status": "ongoing",
+    "winner": null,
+    "players": {
+      "white": "4676550f-7ab6-4caf-be92-4c60238c30c0",
+      "black": "8b669da4-5ffa-44b9-960e-7b8bd2f15743"
+    },
+    "last_update": 1756974879,
+    "offers": {
+      "draw": null
+    }
+  },
+  "ROOMTEST3": {
+    "code": "ROOMTEST3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "history": [],
+    "created": 1756975069,
+    "turn": "w",
+    "status": "ongoing",
+    "winner": null,
+    "players": {
+      "white": "446f02bc-6a82-4fdf-ad37-3a3a08e2ad66",
+      "black": "7f6eda8c-da55-41d9-bd0e-287eecd31a0f"
+    },
+    "last_update": 1756975069,
+    "offers": {
+      "draw": null
+    }
+  },
+  "ROOM1": {
+    "code": "ROOM1",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+    "history": [
+      "e4",
+      "Nf6"
+    ],
+    "created": 1757273616,
+    "turn": "w",
+    "status": "ended",
+    "winner": "black",
+    "players": {
+      "white": "71b2e25c-409b-4bbe-80d2-3b582cbf8b6b",
+      "black": "e61e1692-9a59-4322-9ef3-d8ddbe8eee59"
+    },
+    "last_update": 1757273832,
+    "offers": {
+      "draw": null
+    }
+  },
+  "ROOMTEST1": {
+    "code": "ROOMTEST1",
+    "fen": "rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2",
+    "history": [
+      "e4",
+      "Nf6",
+      "e5"
+    ],
+    "created": 1757331114,
+    "turn": "b",
+    "status": "ongoing",
+    "winner": null,
+    "players": {
+      "white": "559b15cd-1480-46db-aec3-d1e0bf31f986",
+      "black": "04377d66-de26-48d3-ba2c-5fe6cd0d823a"
+    },
+    "last_update": 1757331218
+  },
+  "TEST1": {
+    "code": "TEST1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "history": [],
+    "created": 1757331741,
+    "turn": "w",
+    "status": "ongoing",
+    "winner": null,
+    "players": {
+      "white": "f15d731a-0ca4-4729-ae19-b6049e1d6faa",
+      "black": "82cb2e14-062a-4561-bcae-addfcdc003f6"
+    },
+    "last_update": 1757331741
+  },
+  "T1": {
+    "code": "T1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "history": [],
+    "created": 1757331882,
+    "turn": "w",
+    "status": "ongoing",
+    "winner": null,
+    "players": {
+      "white": "ae5d8583-9cdb-4b5a-b008-1f96b7460c50",
+      "black": "e4b3072a-4f2c-46c4-b723-0474bee9af07"
+    },
+    "last_update": 1757331882
+  },
+  "ROOMTEST10": {
+    "code": "ROOMTEST10",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "history": [],
+    "created": 1757332073,
+    "turn": "w",
+    "status": "ongoing",
+    "winner": null,
+    "players": {
+      "white": "500adaff-dbd9-4f79-bf9d-3ba02efa9561",
+      "black": "239a3859-fb17-4335-877f-3ea119e7c055"
+    },
+    "last_update": 1757332073
   }
 }
